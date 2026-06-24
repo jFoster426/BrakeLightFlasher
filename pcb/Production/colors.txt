@@ -1,0 +1,9 @@
+outline.gbr #ffffff
+pth.gbr #888855
+npth.gbr #888855
+silk_top.gbr #ffff00
+mask_top.gbr #ff00ff
+l1.gbr #ff0000
+l2.gbr #0000ff
+mask_bot.gbr #770077
+silk_bot.gbr #777700

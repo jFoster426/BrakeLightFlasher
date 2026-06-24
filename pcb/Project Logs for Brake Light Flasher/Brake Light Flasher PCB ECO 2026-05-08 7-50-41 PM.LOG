@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Added Member To Class: ClassName=Brake Light Flasher Member=Component D6 ESDSLC5V0LB-TP
+Added Member To Class: ClassName=Brake Light Flasher Member=Component R4 49R9,1%,0.063W,0402

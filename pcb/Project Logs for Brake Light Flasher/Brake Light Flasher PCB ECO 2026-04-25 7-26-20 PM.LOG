@@ -1,0 +1,22 @@
+Added Component: Designator=D8(VISHAY_PKG_DFN1006-2A)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.vishay.com/docs/86185/vesd01c1-hd1tovesd33c1-hd1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "VESD12C1-HD1-G3-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "DIODE,ESD,12V,DFN1006-2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "78-VESD12C1-HD1-G308"; VariantName = "[No Variations]"
+Added Component: Designator=D9(VISHAY_PKG_DFN1006-2A)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.vishay.com/docs/86185/vesd01c1-hd1tovesd33c1-hd1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "VESD12C1-HD1-G3-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "DIODE,ESD,12V,DFN1006-2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "78-VESD12C1-HD1-G308"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COM Pin=D8-1
+Added Pin To Net: NetName=+12V.IN Pin=D8-2
+Added Pin To Net: NetName=COM Pin=D9-1
+Added Pin To Net: NetName=+12V.OUT Pin=D9-2
+Added Member To Class: ClassName=Brake Light Flasher Member=Component D8 VESD12C1-HD1-G3-08
+Added Member To Class: ClassName=Brake Light Flasher Member=Component D9 VESD12C1-HD1-G3-08
